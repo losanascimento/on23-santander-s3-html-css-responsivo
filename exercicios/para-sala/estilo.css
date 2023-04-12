@@ -1,0 +1,24 @@
+body {
+    margin: 0%;
+    padding: 20px;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(228, 182, 160);
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+.img-venus {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Hind Siliguri', sans-serif;
+font-family: 'Lobster', cursive; */

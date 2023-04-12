@@ -1,0 +1,90 @@
+nav {
+    justify-content: center;
+    padding: 0;
+    background-color: #421f0b;
+    background-size: cover;
+}
+
+nav a {
+    color: #f8f7f7;
+    font-size: 20pt;
+    text-decoration: none;
+    padding: 20px;
+    display: inline;
+}
+
+body {
+background-color: rgba(229, 235, 252, 0.911);
+font-family: 'Times New Roman', Times, serif;
+color: #421f0b;
+margin: 0%;
+text-align: center;
+justify-content: center;
+}
+
+.container {
+font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+    color: #693322;
+    font-size: 1em;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.infos {
+    width: 35%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: justify;
+}
+
+
+h2 {
+    text-align: center;
+    
+}
+
+p {
+}
+
+ul {
+text-align: center;
+list-style-type: none;
+}
+
+li {
+    text-align: left;
+}
+
+.contact {
+
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
